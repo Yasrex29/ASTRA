@@ -1,0 +1,13 @@
+crowd-thermal-collision-detection/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+│
+├── src/
+│   ├── detector.py
+│   ├── heatmap.py
+│   └── collision.py
+│
+└── sample_video/
+    └── crowd.mp4
